@@ -1,1 +1,1 @@
-# Note Taker Starter Codes
+An app using Express and Node.JS to allow to set and save notes
